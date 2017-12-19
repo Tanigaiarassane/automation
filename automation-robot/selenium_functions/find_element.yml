@@ -1,0 +1,4 @@
+find_by:
+   name: xtag
+   url: http://jqueryui.com/
+   val: .//*[@id='sidebar']/aside[1]/ul/li[1]/a

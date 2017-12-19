@@ -1,0 +1,4 @@
+find_by:
+    by : name
+    url : http://jqueryui.com/
+    value : uid

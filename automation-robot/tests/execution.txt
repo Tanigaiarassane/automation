@@ -1,0 +1,71 @@
+*** Settings ***
+Suite Setup   Setup Actions
+Library   selenium_functions.selenium_features
+Library   common.setup_lib   WITH NAME   lib
+*** Variables ***
+${browser} =   IE
+
+*** Test Case ***
+Test 1: Locating elements
+    [Documentation]   Locating elements by id, name, tag, link text, css, xpath
+    log    Dummy test for executing locating elements
+
+Test 2: Frame demo
+    [Documentation]   Demo of Switching frames
+    Log    tanigai1
+    Log    ${browser}
+    frame demo
+
+Test 3: Actions menu
+    [Documentation]   Demo of Actions menu
+    actions menu
+
+Test 4: Implicit wait
+    [Documentation]   Demo for implicit wait
+    log    Dummy test for executing implicit wait
+
+Test 5: Explicit wait
+    [Documentation]   Demo for Explicit wait
+    log    Explicit wait
+
+Test 6: Capturing screen
+    [Documentation]   Demo for screen capture
+    log    Screen capture
+
+Test 7: Exception handling
+    [Documentation]   Demo for Exception handling
+    log    Exception handling
+
+Test 8: File handling
+    [Documentation]   Demo for File handling
+    log    File handling
+
+Test 7: Date picker
+    [Documentation]   Demo for Date picker
+    log    Date picker
+
+Test 8: Select menu
+    [Documentation]   Drop down with select menu
+    log    Select menu
+
+Test 9: Execute script
+    [Documentation]   Execute JS
+    log    Execute Java script
+
+Test 10: Handling windows
+    [Documentation]   Switching to windows
+    log    Switching to windows
+
+Test 11: Handling alerts
+    [Documentation]   Switching to alerts windows
+    log    Switching to alerts windows
+
+
+
+
+*** Keywords ***
+Setup Actions
+    ${browser} =   lib.connect_browser
+    Log    ${browser}
+    set suite variable   ${browser}
+

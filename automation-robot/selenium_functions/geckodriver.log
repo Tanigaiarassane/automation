@@ -1,0 +1,389 @@
+1512607049190	geckodriver	INFO	geckodriver 0.18.0
+1512607049198	geckodriver	INFO	Listening on 127.0.0.1:50458
+1512607050262	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1512607050581	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1512607050912	Marionette	INFO	Enabled via --marionette
+2017-12-07 06:07:32.084 plugin-container[17405:478160] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-12-07 06:07:32.087 plugin-container[17405:478160] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa103, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512607052428	Marionette	INFO	Listening on port 50467
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1512607052529	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512607052564	Marionette	DEBUG	loaded listener.js
+1512607052581	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512607053390	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512607053391	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512607055143	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://jqueryui.com/"
+1512607058280	Marionette	DEBUG	Received DOM event "pageshow" for "http://jqueryui.com/"
+JavaScript error: resource://shield-recipe-client/lib/EventEmitter.jsm, line 30: TypeError: log is undefined
+JavaScript error: resource://shield-recipe-client/lib/EventEmitter.jsm, line 30: TypeError: log is undefined
+1512607106363	geckodriver	INFO	geckodriver 0.18.0
+1512607106366	geckodriver	INFO	Listening on 127.0.0.1:50583
+1512607107420	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1512607107610	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1512607107877	Marionette	INFO	Enabled via --marionette
+2017-12-07 06:08:28.920 plugin-container[17425:478929] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-12-07 06:08:28.922 plugin-container[17425:478929] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa103, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512607109060	Marionette	INFO	Listening on port 50592
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1512607109101	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512607109129	Marionette	DEBUG	loaded listener.js
+1512607109144	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512607109731	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512607109731	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512607111250	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://jqueryui.com/"
+1512607113369	Marionette	DEBUG	Received DOM event "pageshow" for "http://jqueryui.com/"
+1512607140240	geckodriver	INFO	geckodriver 0.18.0
+1512607140244	geckodriver	INFO	Listening on 127.0.0.1:50675
+1512607141295	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1512607141480	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1512607141735	Marionette	INFO	Enabled via --marionette
+2017-12-07 06:09:02.819 plugin-container[17440:479509] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-12-07 06:09:02.821 plugin-container[17440:479509] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa103, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512607142957	Marionette	INFO	Listening on port 50684
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1512607142999	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512607143031	Marionette	DEBUG	loaded listener.js
+1512607143045	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512607143639	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512607143639	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512607145187	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://jqueryui.com/"
+1512607147180	Marionette	DEBUG	Received DOM event "pageshow" for "http://jqueryui.com/"
+1512607147249	Marionette	DEBUG	Received DOM event "beforeunload" for "http://jqueryui.com/"
+1512607147613	Marionette	DEBUG	Received DOM event "pagehide" for "http://jqueryui.com/"
+1512607147613	Marionette	DEBUG	Received DOM event "unload" for "http://jqueryui.com/"
+1512607147719	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://jqueryui.com/draggable/"
+1512607148517	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://jqueryui.com/resources/demos/draggable/default.html"
+1512607148519	Marionette	DEBUG	Received DOM event "pageshow" for "http://jqueryui.com/resources/demos/draggable/default.html"
+1512607148774	Marionette	DEBUG	Received DOM event "pageshow" for "http://jqueryui.com/draggable/"
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+1512607289761	geckodriver	INFO	geckodriver 0.18.0
+1512607289764	geckodriver	INFO	Listening on 127.0.0.1:50769
+1512607290814	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1512607291035	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1512607291300	Marionette	INFO	Enabled via --marionette
+2017-12-07 06:11:32.246 plugin-container[17478:480564] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-12-07 06:11:32.249 plugin-container[17478:480564] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa203, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512607292538	Marionette	INFO	Listening on port 50778
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1512607292636	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512607292677	Marionette	DEBUG	loaded listener.js
+1512607292693	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512607293277	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512607293277	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512607294764	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://jqueryui.com/"
+1512607296820	Marionette	DEBUG	Received DOM event "pageshow" for "http://jqueryui.com/"
+1512607296891	Marionette	DEBUG	Received DOM event "beforeunload" for "http://jqueryui.com/"
+1512607297196	Marionette	DEBUG	Received DOM event "pagehide" for "http://jqueryui.com/"
+1512607297197	Marionette	DEBUG	Received DOM event "unload" for "http://jqueryui.com/"
+1512607297307	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://jqueryui.com/draggable/"
+1512607298106	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://jqueryui.com/resources/demos/draggable/default.html"
+1512607298108	Marionette	DEBUG	Received DOM event "pageshow" for "http://jqueryui.com/resources/demos/draggable/default.html"
+1512607298109	Marionette	DEBUG	Received DOM event "pageshow" for "http://jqueryui.com/draggable/"
+1512607303130	Marionette	INFO	New connections will no longer be accepted
+1512611048369	geckodriver	INFO	geckodriver 0.18.0
+1512611048373	geckodriver	INFO	Listening on 127.0.0.1:51027
+1512611049430	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1512611049672	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1512611050013	Marionette	INFO	Enabled via --marionette
+2017-12-07 07:14:11.265 plugin-container[18044:489693] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-12-07 07:14:11.270 plugin-container[18044:489693] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa103, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512611051414	Marionette	INFO	Listening on port 51036
+1512611051438	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512611051495	Marionette	DEBUG	loaded listener.js
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+2017-12-07 07:14:53.637 plugin-container[18053:490063] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f33, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-12-07 07:14:53.638 plugin-container[18053:490063] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa303, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: resource://shield-recipe-client/lib/EventEmitter.jsm, line 30: TypeError: log is undefined
+JavaScript error: resource://shield-recipe-client/lib/EventEmitter.jsm, line 30: TypeError: log is undefined
+1512611110444	geckodriver	INFO	geckodriver 0.18.0
+1512611110447	geckodriver	INFO	Listening on 127.0.0.1:51129
+1512611111493	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1512611111724	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1512611112006	Marionette	INFO	Enabled via --marionette
+2017-12-07 07:15:13.229 plugin-container[18068:490423] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-12-07 07:15:13.231 plugin-container[18068:490423] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa103, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512611113394	Marionette	INFO	Listening on port 51138
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1512611113474	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512611113513	Marionette	DEBUG	loaded listener.js
+JavaScript error: resource://shield-recipe-client/lib/EventEmitter.jsm, line 30: TypeError: log is undefined
+JavaScript error: resource://shield-recipe-client/lib/EventEmitter.jsm, line 30: TypeError: log is undefined
+1512611152055	geckodriver	INFO	geckodriver 0.18.0
+1512611152058	geckodriver	INFO	Listening on 127.0.0.1:51203
+1512611153102	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1512611153293	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1512611153560	Marionette	INFO	Enabled via --marionette
+2017-12-07 07:15:54.552 plugin-container[18088:491022] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c07, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-12-07 07:15:54.553 plugin-container[18088:491022] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa303, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512611154872	Marionette	INFO	Listening on port 51213
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1512611154895	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512611154932	Marionette	DEBUG	loaded listener.js
+1512611154951	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512611155796	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512611155796	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512611157816	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://jqueryui.com/button/"
+1512611158677	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://jqueryui.com/resources/demos/button/default.html"
+1512611158691	Marionette	DEBUG	Received DOM event "pageshow" for "http://jqueryui.com/resources/demos/button/default.html"
+1512611161785	Marionette	DEBUG	Received DOM event "pageshow" for "http://jqueryui.com/button/"
+1512611161882	Marionette	DEBUG	Received DOM event "beforeunload" for "http://jqueryui.com/button/"
+1512611162260	Marionette	DEBUG	Received DOM event "pagehide" for "http://jqueryui.com/button/"
+1512611162261	Marionette	DEBUG	Received DOM event "unload" for "http://jqueryui.com/button/"
+1512611162401	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://jqueryui.com/draggable/"
+1512611162406	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1512611162875	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://jqueryui.com/resources/demos/draggable/default.html"
+1512611162877	Marionette	DEBUG	Received DOM event "pageshow" for "http://jqueryui.com/resources/demos/draggable/default.html"
+1512611163196	Marionette	DEBUG	Received DOM event "pageshow" for "http://jqueryui.com/draggable/"
+JavaScript error: resource://shield-recipe-client/lib/EventEmitter.jsm, line 30: TypeError: log is undefined
+JavaScript error: resource://shield-recipe-client/lib/EventEmitter.jsm, line 30: TypeError: log is undefined
+1512611232537	geckodriver	INFO	geckodriver 0.18.0
+1512611232542	geckodriver	INFO	Listening on 127.0.0.1:51302
+1512611233584	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1512611233807	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1512611234074	Marionette	INFO	Enabled via --marionette
+2017-12-07 07:17:14.985 plugin-container[18114:491631] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-12-07 07:17:14.987 plugin-container[18114:491631] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa203, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512611235231	Marionette	INFO	Listening on port 51311
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1512611235258	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512611235291	Marionette	DEBUG	loaded listener.js
+1512611235304	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512611235909	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512611235910	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512611237477	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://jqueryui.com/button/"
+1512611238280	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://jqueryui.com/resources/demos/button/default.html"
+1512611238286	Marionette	DEBUG	Received DOM event "pageshow" for "http://jqueryui.com/resources/demos/button/default.html"
+1512611239690	Marionette	DEBUG	Received DOM event "pageshow" for "http://jqueryui.com/button/"
+1512611239771	Marionette	DEBUG	Received DOM event "beforeunload" for "http://jqueryui.com/button/"
+1512611240080	Marionette	DEBUG	Received DOM event "pagehide" for "http://jqueryui.com/button/"
+1512611240081	Marionette	DEBUG	Received DOM event "unload" for "http://jqueryui.com/button/"
+1512611240202	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://jqueryui.com/draggable/"
+1512611240207	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1512611240535	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://jqueryui.com/resources/demos/draggable/default.html"
+1512611240536	Marionette	DEBUG	Received DOM event "pageshow" for "http://jqueryui.com/resources/demos/draggable/default.html"
+1512611240954	Marionette	DEBUG	Received DOM event "pageshow" for "http://jqueryui.com/draggable/"
+1512611246026	Marionette	INFO	New connections will no longer be accepted
+JavaScript error: resource://shield-recipe-client/lib/EventEmitter.jsm, line 30: TypeError: log is undefined
+JavaScript error: resource://shield-recipe-client/lib/EventEmitter.jsm, line 30: TypeError: log is undefined
+1512611515210	geckodriver	INFO	geckodriver 0.18.0
+1512611515214	geckodriver	INFO	Listening on 127.0.0.1:51442
+1512611516263	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1512611516451	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1512611516722	Marionette	INFO	Enabled via --marionette
+2017-12-07 07:21:57.811 plugin-container[18183:493902] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-12-07 07:21:57.813 plugin-container[18183:493902] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa303, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512611517972	Marionette	INFO	Listening on port 51451
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1512611518067	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512611518099	Marionette	DEBUG	loaded listener.js
+JavaScript error: resource://shield-recipe-client/lib/EventEmitter.jsm, line 30: TypeError: log is undefined
+JavaScript error: resource://shield-recipe-client/lib/EventEmitter.jsm, line 30: TypeError: log is undefined
+1512611580127	geckodriver	INFO	geckodriver 0.18.0
+1512611580130	geckodriver	INFO	Listening on 127.0.0.1:51516
+1512611581176	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1512611581370	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1512611581620	Marionette	INFO	Enabled via --marionette
+2017-12-07 07:23:02.660 plugin-container[18207:494439] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-12-07 07:23:02.663 plugin-container[18207:494439] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa103, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512611582801	Marionette	INFO	Listening on port 51525
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1512611582835	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512611582866	Marionette	DEBUG	loaded listener.js
+1512611582881	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512611584471	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512611584472	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512611590039	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://automationpractice.com/index.php"
+1512611591352	Marionette	DEBUG	Received DOM event "pageshow" for "http://automationpractice.com/index.php"
+1512611591355	Marionette	DEBUG	Received DOM event "pageshow" for "http://automationpractice.com/index.php"
+1512611592085	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://staticxx.facebook.com/connect/xd_arbiter/r/lY4eZXm_YWu.js?version=42#channel=fcc2411c73500a&origin=http%3A%2F%2Fautomationpractice.com"
+1512611592086	Marionette	DEBUG	Received DOM event "pageshow" for "http://staticxx.facebook.com/connect/xd_arbiter/r/lY4eZXm_YWu.js?version=42#channel=fcc2411c73500a&origin=http%3A%2F%2Fautomationpractice.com"
+1512611592553	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/lY4eZXm_YWu.js?version=42#channel=fcc2411c73500a&origin=http%3A%2F%2Fautomationpractice.com"
+1512611592555	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/lY4eZXm_YWu.js?version=42#channel=fcc2411c73500a&origin=http%3A%2F%2Fautomationpractice.com"
+1512611592944	Marionette	DEBUG	Received DOM event "pageshow" for "http://automationpractice.com/index.php"
+1512611592948	Marionette	DEBUG	Received DOM event "pageshow" for "http://automationpractice.com/index.php"
+1512611593245	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512611792068	geckodriver	INFO	geckodriver 0.18.0
+1512611792071	geckodriver	INFO	Listening on 127.0.0.1:51643
+1512611793120	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1512611793373	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1512611793648	Marionette	INFO	Enabled via --marionette
+2017-12-07 07:26:34.742 plugin-container[18264:496021] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-12-07 07:26:34.744 plugin-container[18264:496021] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa103, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512611794937	Marionette	INFO	Listening on port 51652
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1512611795009	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512611795045	Marionette	DEBUG	loaded listener.js
+1512611795058	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512611796456	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512611796456	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512611800682	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://automationpractice.com/index.php"
+1512611801991	Marionette	DEBUG	Received DOM event "pageshow" for "http://automationpractice.com/index.php"
+1512611802002	Marionette	DEBUG	Received DOM event "pageshow" for "http://automationpractice.com/index.php"
+1512611802744	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://staticxx.facebook.com/connect/xd_arbiter/r/lY4eZXm_YWu.js?version=42#channel=f1e046e53a3fe18&origin=http%3A%2F%2Fautomationpractice.com"
+1512611802749	Marionette	DEBUG	Received DOM event "pageshow" for "http://staticxx.facebook.com/connect/xd_arbiter/r/lY4eZXm_YWu.js?version=42#channel=f1e046e53a3fe18&origin=http%3A%2F%2Fautomationpractice.com"
+1512611803206	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/lY4eZXm_YWu.js?version=42#channel=f1e046e53a3fe18&origin=http%3A%2F%2Fautomationpractice.com"
+1512611803208	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/lY4eZXm_YWu.js?version=42#channel=f1e046e53a3fe18&origin=http%3A%2F%2Fautomationpractice.com"
+1512611803295	Marionette	DEBUG	Received DOM event "pageshow" for "http://automationpractice.com/index.php"
+1512611803299	Marionette	DEBUG	Received DOM event "pageshow" for "http://automationpractice.com/index.php"
+1512611803399	Marionette	DEBUG	Received DOM event "beforeunload" for "http://automationpractice.com/index.php"
+1512611804645	Marionette	DEBUG	Received DOM event "pagehide" for "http://automationpractice.com/index.php"
+1512611804646	Marionette	DEBUG	Received DOM event "unload" for "http://automationpractice.com/index.php"
+1512611806005	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://automationpractice.com/index.php?controller=authentication&back=my-account"
+1512611806013	Marionette	DEBUG	Received DOM event "pageshow" for "http://automationpractice.com/index.php?controller=authentication&back=my-account"
+1512611811038	Marionette	INFO	New connections will no longer be accepted
+JavaScript error: resource://shield-recipe-client/lib/EventEmitter.jsm, line 30: TypeError: log is undefined
+JavaScript error: resource://shield-recipe-client/lib/EventEmitter.jsm, line 30: TypeError: log is undefined
+2017-12-07 09:01:21.096 plugin-container[18804:508826] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-12-07 09:01:21.098 plugin-container[18804:508826] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa103, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-12-07 11:40:43.937 plugin-container[19629:574328] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-12-07 11:40:43.939 plugin-container[19629:574328] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa103, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: chrome://browser/content/browser-gestureSupport.js, line 445: TypeError: window.content is null
+JavaScript error: chrome://browser/content/browser-gestureSupport.js, line 464: TypeError: window.content is null
+1512984224453	geckodriver	INFO	geckodriver 0.18.0
+1512984224456	geckodriver	INFO	Listening on 127.0.0.1:60453
+1512984225494	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1512984225696	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1512984225963	Marionette	INFO	Enabled via --marionette
+1512984227169	Marionette	INFO	Listening on port 60462
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+2017-12-11 14:53:47.241 plugin-container[9887:257097] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-12-11 14:53:47.243 plugin-container[9887:257097] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa103, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512984227274	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512984227302	Marionette	DEBUG	loaded listener.js
+1512984227317	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512984231366	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512984231366	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512984233600	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://qatechnicals.wordpress.com/jmeter-learning-in-30-days/"
+1512984234029	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://widgets.wp.com/likes/master.html?ver=20170206#ver=20170206"
+1512984236191	Marionette	DEBUG	Received DOM event "pageshow" for "https://widgets.wp.com/likes/master.html?ver=20170206#ver=20170206"
+1512984237167	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://widgets.wp.com/likes/#blog_id=65538304&post_id=748&origin=qatechnicals.wordpress.com&obj_id=65538304-748-5a2e4ea7341c9"
+1512984237173	Marionette	DEBUG	Received DOM event "pageshow" for "https://widgets.wp.com/likes/#blog_id=65538304&post_id=748&origin=qatechnicals.wordpress.com&obj_id=65538304-748-5a2e4ea7341c9"
+1512984238106	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://public-api.wordpress.com/wp-admin/rest-proxy/#https://widgets.wp.com"
+1512984238108	Marionette	DEBUG	Received DOM event "pageshow" for "https://public-api.wordpress.com/wp-admin/rest-proxy/#https://widgets.wp.com"
+1512984238646	Marionette	DEBUG	Received DOM event "pageshow" for "https://qatechnicals.wordpress.com/jmeter-learning-in-30-days/"
+1512984238674	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://qatechnicals.wordpress.com/jmeter-learning-in-30-days/"
+1512984239115	Marionette	DEBUG	Received DOM event "pageshow" for "https://qatechnicals.wordpress.com/jmeter-learning-in-30-days/"
+1512984239142	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://qatechnicals.wordpress.com/jmeter-learning-in-30-days/"
+1512984240025	Marionette	DEBUG	Received DOM event "pageshow" for "https://qatechnicals.wordpress.com/jmeter-learning-in-30-days/"
+1512984240029	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://qatechnicals.wordpress.com/jmeter-learning-in-30-days/"
+1512984240043	Marionette	DEBUG	Received DOM event "pageshow" for "https://qatechnicals.wordpress.com/jmeter-learning-in-30-days/"
+1512984240046	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://qatechnicals.wordpress.com/jmeter-learning-in-30-days/"
+1512984240278	Marionette	DEBUG	Received DOM event "pageshow" for "https://qatechnicals.wordpress.com/jmeter-learning-in-30-days/"
+1512984240290	Marionette	DEBUG	Received DOM event "pageshow" for "https://qatechnicals.wordpress.com/jmeter-learning-in-30-days/"
+1512984240294	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s.pubmine.com/passback.html"
+1512984240296	Marionette	DEBUG	Received DOM event "pageshow" for "https://s.pubmine.com/passback.html"
+1512984240297	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s.pubmine.com/passback.html"
+1512984240299	Marionette	DEBUG	Received DOM event "pageshow" for "https://s.pubmine.com/passback.html"
+1512984240323	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://qatechnicals.wordpress.com/jmeter-learning-in-30-days/"
+1512984240327	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://qatechnicals.wordpress.com/jmeter-learning-in-30-days/"
+1512984240790	Marionette	DEBUG	Received DOM event "pageshow" for "https://qatechnicals.wordpress.com/jmeter-learning-in-30-days/"
+1512984240800	Marionette	DEBUG	Received DOM event "pageshow" for "https://qatechnicals.wordpress.com/jmeter-learning-in-30-days/"
+1512984240805	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://qatechnicals.wordpress.com/jmeter-learning-in-30-days/"
+1512984240808	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://qatechnicals.wordpress.com/jmeter-learning-in-30-days/"
+1512984240822	Marionette	DEBUG	Received DOM event "pageshow" for "https://qatechnicals.wordpress.com/jmeter-learning-in-30-days/"
+1512984240833	Marionette	DEBUG	Received DOM event "pageshow" for "https://qatechnicals.wordpress.com/jmeter-learning-in-30-days/"
+1512984240840	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s.pubmine.com/passback.html"
+1512984240842	Marionette	DEBUG	Received DOM event "pageshow" for "https://s.pubmine.com/passback.html"
+1512984240845	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s.pubmine.com/passback.html"
+1512984240847	Marionette	DEBUG	Received DOM event "pageshow" for "https://s.pubmine.com/passback.html"
+1512984240865	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://qatechnicals.wordpress.com/jmeter-learning-in-30-days/"
+1512984240868	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://qatechnicals.wordpress.com/jmeter-learning-in-30-days/"
+1512984241129	Marionette	DEBUG	Received DOM event "pageshow" for "https://qatechnicals.wordpress.com/jmeter-learning-in-30-days/"
+1512984241132	Marionette	DEBUG	Received DOM event "pageshow" for "https://qatechnicals.wordpress.com/jmeter-learning-in-30-days/"
+1512984241135	Marionette	DEBUG	Received DOM event "pageshow" for "https://qatechnicals.wordpress.com/jmeter-learning-in-30-days/"
+1512984241340	Marionette	DEBUG	Received DOM event "pageshow" for "https://qatechnicals.wordpress.com/jmeter-learning-in-30-days/"
+1512984241348	Marionette	DEBUG	Received DOM event "pageshow" for "https://qatechnicals.wordpress.com/jmeter-learning-in-30-days/"
+1512984241353	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://qatechnicals.wordpress.com/jmeter-learning-in-30-days/"
+1512984241355	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://qatechnicals.wordpress.com/jmeter-learning-in-30-days/"
+1512984241358	Marionette	DEBUG	Received DOM event "pageshow" for "https://qatechnicals.wordpress.com/jmeter-learning-in-30-days/"
+1512984241373	Marionette	DEBUG	Received DOM event "pageshow" for "https://qatechnicals.wordpress.com/jmeter-learning-in-30-days/"
+1512984241380	Marionette	DEBUG	Received DOM event "pageshow" for "https://qatechnicals.wordpress.com/jmeter-learning-in-30-days/"
+1512984241386	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s.pubmine.com/passback.html"
+1512984241387	Marionette	DEBUG	Received DOM event "pageshow" for "https://s.pubmine.com/passback.html"
+1512984241388	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s.pubmine.com/passback.html"
+1512984241391	Marionette	DEBUG	Received DOM event "pageshow" for "https://s.pubmine.com/passback.html"
+1512984241410	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://qatechnicals.wordpress.com/jmeter-learning-in-30-days/"
+1512984241415	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://qatechnicals.wordpress.com/jmeter-learning-in-30-days/"
+1512984241587	Marionette	DEBUG	Received DOM event "pageshow" for "https://qatechnicals.wordpress.com/jmeter-learning-in-30-days/"
+1512984241589	Marionette	DEBUG	Received DOM event "pageshow" for "https://qatechnicals.wordpress.com/jmeter-learning-in-30-days/"
+1512984241590	Marionette	DEBUG	Received DOM event "pageshow" for "https://qatechnicals.wordpress.com/jmeter-learning-in-30-days/"
+1512984241591	Marionette	DEBUG	Received DOM event "pageshow" for "https://qatechnicals.wordpress.com/jmeter-learning-in-30-days/"
+1512984241709	Marionette	DEBUG	Received DOM event "pageshow" for "https://qatechnicals.wordpress.com/jmeter-learning-in-30-days/"
+1512984241710	Marionette	DEBUG	Received DOM event "pageshow" for "https://qatechnicals.wordpress.com/jmeter-learning-in-30-days/"
+1512984241712	Marionette	DEBUG	Received DOM event "pageshow" for "https://qatechnicals.wordpress.com/jmeter-learning-in-30-days/"
+1512984241713	Marionette	DEBUG	Received DOM event "pageshow" for "https://qatechnicals.wordpress.com/jmeter-learning-in-30-days/"
+1512984241871	Marionette	DEBUG	Received DOM event "pageshow" for "https://qatechnicals.wordpress.com/jmeter-learning-in-30-days/"
+1512984241881	Marionette	DEBUG	Received DOM event "pageshow" for "https://qatechnicals.wordpress.com/jmeter-learning-in-30-days/"
+1512984241885	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://qatechnicals.wordpress.com/jmeter-learning-in-30-days/"
+1512984241886	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://qatechnicals.wordpress.com/jmeter-learning-in-30-days/"
+1512984241904	Marionette	DEBUG	Received DOM event "pageshow" for "https://qatechnicals.wordpress.com/jmeter-learning-in-30-days/"
+1512984241913	Marionette	DEBUG	Received DOM event "pageshow" for "https://qatechnicals.wordpress.com/jmeter-learning-in-30-days/"
+1512984241922	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s.pubmine.com/passback.html"
+1512984241925	Marionette	DEBUG	Received DOM event "pageshow" for "https://s.pubmine.com/passback.html"
+1512984241925	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s.pubmine.com/passback.html"
+1512984241926	Marionette	DEBUG	Received DOM event "pageshow" for "https://s.pubmine.com/passback.html"
+1512984242110	Marionette	DEBUG	Received DOM event "pageshow" for "https://qatechnicals.wordpress.com/jmeter-learning-in-30-days/"
+1512984242117	Marionette	DEBUG	Received DOM event "pageshow" for "https://qatechnicals.wordpress.com/jmeter-learning-in-30-days/"
+1512984242866	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://qatechnicals.wordpress.com/jmeter-learning-in-30-days/"
+1512984243237	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ad.doubleclick.net/ddm/adi/N30602.158901DATAXU1/B20494861.210087002;sz=300x250;click=https://i.w55c.net/cl?t=1&btid=YjU4OTdkN2FfZmMxMmE3ZjEtNWZiOC00OGM2LTliNTMtODRjZWI3MjgzY2RlfFdGYlVOMURwRzR8MTUxMjk4NDIzODkwOHwxfFhtTkN2RzJ1UDd8MFJwSlBXQ1U2QXwxMzc4MDEwMTkyX0dFTl9FWHwxMjEzMjN8fHx8MTcuMFB8VVNE&ei=WORDPRESS&tpc=http%3A%2F%2Fs.pubmine.com%2Fclick%2F29D-YIyvXSvi81CuUHABpglzSDxs_H_9naWZ8Bj4YRhE3ohWfx2Mj0ntMm0SKZ9jvTT_4WsSnl1oqzddJ1i2eDxbe-n3qL0CyhiNxtlN6KZg1Eri-9XxjCtxkhbVgzDpYKV2DogJQ22adAG3y1EBd1uoIwSmDNS2qNyjHdQOS6rKMco0tSZN_kc59rFDe-VWqZ_0rSnVDJGIORqHyoMYHM4IjIRLODgzk5bwdKumeaBP9Zs9FNdyNKU9_pXwawxK3yiQLI6JP5rhdIK1nLjpkqt-KB3qaW02iFd20d8qdGDUPTzPPdm7_epHl0c0t9J6j--SovpazgHEdX3G3BJHdvwu4BDdtBWzRLGfxAjp36mfqMgisGLPMXwdjbF3Pwy4woAWn93NknuaXD-5mTU9bQ-TRql30UB8m2uUIIZiA1xwELUdh6S8qc63SQ2FPgIeYa8lIK7SVyMRMBayqHr0DUvrumb4OodoJ6H4nqWLGa17G_OtfP1z60wLl2xvzeiagUSCNgX_Kqjxj8qpJT28RBcYnqxqYj8uyZlROCLR2Qm3IhBHvPmvbwuPKJ-Ahgm4bPP5W4A3YS4-75KU_DFzMp2i0l7iPyQL7t-A-XObgS3Rzr6NN5FDBuJk9CzrroQlrnxJJyqa65BMEze3d1imdw8Wlf_DO7lzpxqmCGLhtxF2Z_GNIvzWON53H0a7M2lSeszBo8LRp4E6UDpXwe-jTaSUTx-D31esPK03Vth2ruCjAcZ34ase_Fi-B8tEv7noVdTAa7mmzjeWAKGq-Dfh9xB13JpoaSrpMeQjSFXxGu9Fcz24NZ0GByQKRqbEy-314MF9qjWyf1Jw3VhQVYH3uIvwwoKdVh5NUqWSY44DSsY4FZOSu2OpctpNWNaRx7be1LoiA_721WaUihrfFli1KXxxegy2u2CYmehQkjhImtui9vafsFOfBN55GIWWbIhLei4zPg05INe24R1gV9Xpgv-rhhp-IueMjcQRxKZAOuoUaNWE4is63IwLRf0U1sNsQnvORPF3wFEWexb2Da_RWjpdSPxLf-eCJHZVVuLcHWDCAd-ZNVNi6GVvsk7y37-I2a00ZLOSgJk8z_1l0PFoXzUAl0vvw_TXBZwo3W4ASbqzUFpKs8H9g4-saDH5pFr8FKZVwklalUrwGPR9OBf_U1M8yS6XrvxPqM_6KhixQTGkZ_-FNv6f0jouAG1_nOOWSnJes9BUSnIEqE6W_yAisaMk8RaLbaohFyKkWYb7p-q0G1V6pisfTt78fFaELQ7d3FXfU1F_luqlUGOjv_b7VKwY4vq0Ywrvsam188Ld4LXBrgWGTz4_zvSHd3OJKkgMypbxI79qQ8_3UiqqGCaXHHIvEWjUrW1zDdcxtDCI0h2qJThzYqjx0vlKnjamBcceJX73UnPGET4gP2qJDfJiU3NW3z99aNXlFDAciEg4vLgBSIeyBqIyD6xqLqnAPTd2oymrv-khYCdlkrOtrEPSydG_YWwAjenBG_KL7arNlflvCIUG1wlfd3w-h8XCivMo7X7eS3xypvRC6nZ4Gxq8qmfWFBVOYMjAfcD1xdts6LzvzyhISlK8QMaEwuvO6KROkoh8AonymdWHirzD0kMnLXk1dqcobf0t_YGcT6u1oDw-UWQc42QkEhNiCw%2F%2F&rurl=;ord=1874507264136940;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=?"
+1512984243514	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ad.doubleclick.net/ddm/adi/N30602.158901DATAXU1/B20494861.210087002;sz=300x250;click=https://i.w55c.net/cl?t=1&btid=Y2RmNDg1MjJfODgyYWMyODktZjRkOS00YzA2LThjMmMtYmM1ZTMxOGE3MWQ4fFdGcFJPeTBHeXJ8MTUxMjk4NDIzODM3NXwxfFhtTkN2RzJ1UDd8MFJwSlBXQ1U2QXwxMzc4MDEwMTkyX0dFTl9FWHwxMjEzMjN8fHx8MTcuMFB8VVNE&ei=WORDPRESS&tpc=http%3A%2F%2Fs.pubmine.com%2Fclick%2FHk6M6cWzeNwwF17KbIp9R_VqrV5TWpA3kCmghsFB2jtDlTnzAl_uIYI8uSveiZd2LMjKbkKF2N8yJgZSpCBm_xKfyNYGZwQdd69FSOZeKoyeDhyKy7yh9-xZdydi8nO2YpiaCMSh3yOFTFV8dhg0Vm3WsmG8lJNfORd9V5vm4xAMDeP2sykupR4iYukO_ZNyBAiA3F7mCudE-vKw2VKBuMF1BgPe-3qeXf4DA3CQ9Sk_25khGJstBoneUWQuEZThZxZqCtYR0EkpfK72Lh2MVRYGH7sdzdmi6pFLXaq03BBXr9rLDRqHBykhSjxs8A7Da5Hc3Gcm1BF4CcmDhM2Y8tHd7cZw_iOj45i7z1VzZpKVZzuCgts2ev_ZbWwT2U1hPJAmLVp0f8owZY0ls8Bh3UAdtCutdesqpU45uk3JTWHLWxQeUl9YqnKxHMYmCYbwe2P0kNTk4FpoCRUj_2GH_wdElo4drw3xmAkxoYZSH_V3CeHRjsyNXDKRGeUjjO4Cud_FVuY1_2S1cgEW9IRlk6fh7DU-Ha9oGz_VgwiMWeAY3ZeRjCXVaqlcRucLiux4fTzi1HeBYu5KQT_Z6ZGDKY5c8QGTVRaxlR8MuBeGiRxGQhQQkd_XQH3vAC7dwqYad4JK8ifp-IwydyNtJwcxdMzMRzN0wZ7zfA0AJQbHQ_72-Q6amSr_eMh2JGNJXqtffaWRgjNLRgPYwg5XsZuTk6Cvcwb89ib4VRt7xjiesCbX5mdMzmID9XX9NVFxjifgYyOpaGFu0mnqd8Ve0-To5vP1RPe0Om_yAMKdyRe9nbojBqGDfWlIuaKgXrdet3v9xyndHCWJpFW0LSK6gFCwYA4V7MotBoJV2DQSXMyB4SuO82iXAnlE5hMdt2RLqHfTsjlA2X-nFx3rIZnN7nEQYMEe5RAA1dSca5uhOL0337pRnaKqYfRFhG0CrFBgm4CkEc4ABAb2ixE8Bg2XwGtGxL-L9t_LqiCFloEo5EDDbX9oDEs1py7lJf3Pn7TlmAxNGC21lXDTq_KahbEEc_63yLQSEetmEax65Y7wy4LPrRdeGqMami1LVh_lCzHWt9NrQZOOC1P59SzrUaPzcf3QGKO4qG85f88C_xYzixCI9Aqiu2FuOYRh7wWRsNXbO9qot6-5ixOeA2C-5RWHk75efCBYODe32DNxFEwwdphLqrI8nw8PR-jp4QrZC_MVGUoDgEKUwP_BlTSQRTpUmVfiePHsQxFsemaaow675bJFhWm_leRQktkJRMGzEw2mfhPXQ7-pIsXTwvbxL5ejniEVwmzKmX17Nqyar_CqWXAoAltkNp_PGQcHK408bAJrGjSAzUKvkS4fsIqTFf5ShKmjofIuxCCWWmxNFLuL-s5liRX_4F3nQfKpW0Wdybnb0Vlg6e9jg1CrZAP3ZE9jZGswV4iLPGXwnBq85CcnBy0WdI7iog6T-EGZgyBX3vk4XQWSdhl8DytVL09cp_N9YRjXzFHZSM89x_oO7GYwmBC8gPVP46z5smNGyF6LZO7fcL0u8GI6AX6NMVKtmj9Iki74SQijHzrurCXzwwLtrOxyMNaKQV-F-LuhKNVM_26NEGEdqd2i8KiKaa1sLp6zm0iwoZtL-EEW2KssevW1ZozP786O77EeX3s56jEc%2F%2F&rurl=;ord=3846270289103027;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=?"
+1512984243877	Marionette	DEBUG	Received DOM event "pageshow" for "https://qatechnicals.wordpress.com/jmeter-learning-in-30-days/"
+1512984243878	Marionette	DEBUG	Received DOM event "pageshow" for "https://qatechnicals.wordpress.com/jmeter-learning-in-30-days/"
+1512984244142	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://qatechnicals.wordpress.com/jmeter-learning-in-30-days/"
+1512984244547	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tpc.googlesyndication.com/sodar/Ix4UrfoN.html"
+1512984244550	Marionette	DEBUG	Received DOM event "pageshow" for "https://tpc.googlesyndication.com/sodar/Ix4UrfoN.html"
+1512984244552	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tpc.googlesyndication.com/sodar/Ix4UrfoN.html"
+1512984244554	Marionette	DEBUG	Received DOM event "pageshow" for "https://tpc.googlesyndication.com/sodar/Ix4UrfoN.html"
+1512984244582	Marionette	DEBUG	Received DOM event "pageshow" for "https://ad.doubleclick.net/ddm/adi/N30602.158901DATAXU1/B20494861.210087002;sz=300x250;click=https://i.w55c.net/cl?t=1&btid=Y2RmNDg1MjJfODgyYWMyODktZjRkOS00YzA2LThjMmMtYmM1ZTMxOGE3MWQ4fFdGcFJPeTBHeXJ8MTUxMjk4NDIzODM3NXwxfFhtTkN2RzJ1UDd8MFJwSlBXQ1U2QXwxMzc4MDEwMTkyX0dFTl9FWHwxMjEzMjN8fHx8MTcuMFB8VVNE&ei=WORDPRESS&tpc=http%3A%2F%2Fs.pubmine.com%2Fclick%2FHk6M6cWzeNwwF17KbIp9R_VqrV5TWpA3kCmghsFB2jtDlTnzAl_uIYI8uSveiZd2LMjKbkKF2N8yJgZSpCBm_xKfyNYGZwQdd69FSOZeKoyeDhyKy7yh9-xZdydi8nO2YpiaCMSh3yOFTFV8dhg0Vm3WsmG8lJNfORd9V5vm4xAMDeP2sykupR4iYukO_ZNyBAiA3F7mCudE-vKw2VKBuMF1BgPe-3qeXf4DA3CQ9Sk_25khGJstBoneUWQuEZThZxZqCtYR0EkpfK72Lh2MVRYGH7sdzdmi6pFLXaq03BBXr9rLDRqHBykhSjxs8A7Da5Hc3Gcm1BF4CcmDhM2Y8tHd7cZw_iOj45i7z1VzZpKVZzuCgts2ev_ZbWwT2U1hPJAmLVp0f8owZY0ls8Bh3UAdtCutdesqpU45uk3JTWHLWxQeUl9YqnKxHMYmCYbwe2P0kNTk4FpoCRUj_2GH_wdElo4drw3xmAkxoYZSH_V3CeHRjsyNXDKRGeUjjO4Cud_FVuY1_2S1cgEW9IRlk6fh7DU-Ha9oGz_VgwiMWeAY3ZeRjCXVaqlcRucLiux4fTzi1HeBYu5KQT_Z6ZGDKY5c8QGTVRaxlR8MuBeGiRxGQhQQkd_XQH3vAC7dwqYad4JK8ifp-IwydyNtJwcxdMzMRzN0wZ7zfA0AJQbHQ_72-Q6amSr_eMh2JGNJXqtffaWRgjNLRgPYwg5XsZuTk6Cvcwb89ib4VRt7xjiesCbX5mdMzmID9XX9NVFxjifgYyOpaGFu0mnqd8Ve0-To5vP1RPe0Om_yAMKdyRe9nbojBqGDfWlIuaKgXrdet3v9xyndHCWJpFW0LSK6gFCwYA4V7MotBoJV2DQSXMyB4SuO82iXAnlE5hMdt2RLqHfTsjlA2X-nFx3rIZnN7nEQYMEe5RAA1dSca5uhOL0337pRnaKqYfRFhG0CrFBgm4CkEc4ABAb2ixE8Bg2XwGtGxL-L9t_LqiCFloEo5EDDbX9oDEs1py7lJf3Pn7TlmAxNGC21lXDTq_KahbEEc_63yLQSEetmEax65Y7wy4LPrRdeGqMami1LVh_lCzHWt9NrQZOOC1P59SzrUaPzcf3QGKO4qG85f88C_xYzixCI9Aqiu2FuOYRh7wWRsNXbO9qot6-5ixOeA2C-5RWHk75efCBYODe32DNxFEwwdphLqrI8nw8PR-jp4QrZC_MVGUoDgEKUwP_BlTSQRTpUmVfiePHsQxFsemaaow675bJFhWm_leRQktkJRMGzEw2mfhPXQ7-pIsXTwvbxL5ejniEVwmzKmX17Nqyar_CqWXAoAltkNp_PGQcHK408bAJrGjSAzUKvkS4fsIqTFf5ShKmjofIuxCCWWmxNFLuL-s5liRX_4F3nQfKpW0Wdybnb0Vlg6e9jg1CrZAP3ZE9jZGswV4iLPGXwnBq85CcnBy0WdI7iog6T-EGZgyBX3vk4XQWSdhl8DytVL09cp_N9YRjXzFHZSM89x_oO7GYwmBC8gPVP46z5smNGyF6LZO7fcL0u8GI6AX6NMVKtmj9Iki74SQijHzrurCXzwwLtrOxyMNaKQV-F-LuhKNVM_26NEGEdqd2i8KiKaa1sLp6zm0iwoZtL-EEW2KssevW1ZozP786O77EeX3s56jEc%2F%2F&rurl=;ord=3846270289103027;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=?"
+1512984244697	Marionette	DEBUG	Received DOM event "pageshow" for "https://qatechnicals.wordpress.com/jmeter-learning-in-30-days/"
+1512984245929	Marionette	DEBUG	Received DOM event "pageshow" for "https://ad.doubleclick.net/ddm/adi/N30602.158901DATAXU1/B20494861.210087002;sz=300x250;click=https://i.w55c.net/cl?t=1&btid=Y2RmNDg1MjJfODgyYWMyODktZjRkOS00YzA2LThjMmMtYmM1ZTMxOGE3MWQ4fFdGcFJPeTBHeXJ8MTUxMjk4NDIzODM3NXwxfFhtTkN2RzJ1UDd8MFJwSlBXQ1U2QXwxMzc4MDEwMTkyX0dFTl9FWHwxMjEzMjN8fHx8MTcuMFB8VVNE&ei=WORDPRESS&tpc=http%3A%2F%2Fs.pubmine.com%2Fclick%2FHk6M6cWzeNwwF17KbIp9R_VqrV5TWpA3kCmghsFB2jtDlTnzAl_uIYI8uSveiZd2LMjKbkKF2N8yJgZSpCBm_xKfyNYGZwQdd69FSOZeKoyeDhyKy7yh9-xZdydi8nO2YpiaCMSh3yOFTFV8dhg0Vm3WsmG8lJNfORd9V5vm4xAMDeP2sykupR4iYukO_ZNyBAiA3F7mCudE-vKw2VKBuMF1BgPe-3qeXf4DA3CQ9Sk_25khGJstBoneUWQuEZThZxZqCtYR0EkpfK72Lh2MVRYGH7sdzdmi6pFLXaq03BBXr9rLDRqHBykhSjxs8A7Da5Hc3Gcm1BF4CcmDhM2Y8tHd7cZw_iOj45i7z1VzZpKVZzuCgts2ev_ZbWwT2U1hPJAmLVp0f8owZY0ls8Bh3UAdtCutdesqpU45uk3JTWHLWxQeUl9YqnKxHMYmCYbwe2P0kNTk4FpoCRUj_2GH_wdElo4drw3xmAkxoYZSH_V3CeHRjsyNXDKRGeUjjO4Cud_FVuY1_2S1cgEW9IRlk6fh7DU-Ha9oGz_VgwiMWeAY3ZeRjCXVaqlcRucLiux4fTzi1HeBYu5KQT_Z6ZGDKY5c8QGTVRaxlR8MuBeGiRxGQhQQkd_XQH3vAC7dwqYad4JK8ifp-IwydyNtJwcxdMzMRzN0wZ7zfA0AJQbHQ_72-Q6amSr_eMh2JGNJXqtffaWRgjNLRgPYwg5XsZuTk6Cvcwb89ib4VRt7xjiesCbX5mdMzmID9XX9NVFxjifgYyOpaGFu0mnqd8Ve0-To5vP1RPe0Om_yAMKdyRe9nbojBqGDfWlIuaKgXrdet3v9xyndHCWJpFW0LSK6gFCwYA4V7MotBoJV2DQSXMyB4SuO82iXAnlE5hMdt2RLqHfTsjlA2X-nFx3rIZnN7nEQYMEe5RAA1dSca5uhOL0337pRnaKqYfRFhG0CrFBgm4CkEc4ABAb2ixE8Bg2XwGtGxL-L9t_LqiCFloEo5EDDbX9oDEs1py7lJf3Pn7TlmAxNGC21lXDTq_KahbEEc_63yLQSEetmEax65Y7wy4LPrRdeGqMami1LVh_lCzHWt9NrQZOOC1P59SzrUaPzcf3QGKO4qG85f88C_xYzixCI9Aqiu2FuOYRh7wWRsNXbO9qot6-5ixOeA2C-5RWHk75efCBYODe32DNxFEwwdphLqrI8nw8PR-jp4QrZC_MVGUoDgEKUwP_BlTSQRTpUmVfiePHsQxFsemaaow675bJFhWm_leRQktkJRMGzEw2mfhPXQ7-pIsXTwvbxL5ejniEVwmzKmX17Nqyar_CqWXAoAltkNp_PGQcHK408bAJrGjSAzUKvkS4fsIqTFf5ShKmjofIuxCCWWmxNFLuL-s5liRX_4F3nQfKpW0Wdybnb0Vlg6e9jg1CrZAP3ZE9jZGswV4iLPGXwnBq85CcnBy0WdI7iog6T-EGZgyBX3vk4XQWSdhl8DytVL09cp_N9YRjXzFHZSM89x_oO7GYwmBC8gPVP46z5smNGyF6LZO7fcL0u8GI6AX6NMVKtmj9Iki74SQijHzrurCXzwwLtrOxyMNaKQV-F-LuhKNVM_26NEGEdqd2i8KiKaa1sLp6zm0iwoZtL-EEW2KssevW1ZozP786O77EeX3s56jEc%2F%2F&rurl=;ord=3846270289103027;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=?"
+1512984245941	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ad.doubleclick.net/ddm/adi/N30602.158901DATAXU1/B20494861.210087002;sz=300x250;click=https://i.w55c.net/cl?t=1&btid=Y2RmNDg1MjJfODgyYWMyODktZjRkOS00YzA2LThjMmMtYmM1ZTMxOGE3MWQ4fFdGcFJPeTBHeXJ8MTUxMjk4NDIzODM3NXwxfFhtTkN2RzJ1UDd8MFJwSlBXQ1U2QXwxMzc4MDEwMTkyX0dFTl9FWHwxMjEzMjN8fHx8MTcuMFB8VVNE&ei=WORDPRESS&tpc=http%3A%2F%2Fs.pubmine.com%2Fclick%2FHk6M6cWzeNwwF17KbIp9R_VqrV5TWpA3kCmghsFB2jtDlTnzAl_uIYI8uSveiZd2LMjKbkKF2N8yJgZSpCBm_xKfyNYGZwQdd69FSOZeKoyeDhyKy7yh9-xZdydi8nO2YpiaCMSh3yOFTFV8dhg0Vm3WsmG8lJNfORd9V5vm4xAMDeP2sykupR4iYukO_ZNyBAiA3F7mCudE-vKw2VKBuMF1BgPe-3qeXf4DA3CQ9Sk_25khGJstBoneUWQuEZThZxZqCtYR0EkpfK72Lh2MVRYGH7sdzdmi6pFLXaq03BBXr9rLDRqHBykhSjxs8A7Da5Hc3Gcm1BF4CcmDhM2Y8tHd7cZw_iOj45i7z1VzZpKVZzuCgts2ev_ZbWwT2U1hPJAmLVp0f8owZY0ls8Bh3UAdtCutdesqpU45uk3JTWHLWxQeUl9YqnKxHMYmCYbwe2P0kNTk4FpoCRUj_2GH_wdElo4drw3xmAkxoYZSH_V3CeHRjsyNXDKRGeUjjO4Cud_FVuY1_2S1cgEW9IRlk6fh7DU-Ha9oGz_VgwiMWeAY3ZeRjCXVaqlcRucLiux4fTzi1HeBYu5KQT_Z6ZGDKY5c8QGTVRaxlR8MuBeGiRxGQhQQkd_XQH3vAC7dwqYad4JK8ifp-IwydyNtJwcxdMzMRzN0wZ7zfA0AJQbHQ_72-Q6amSr_eMh2JGNJXqtffaWRgjNLRgPYwg5XsZuTk6Cvcwb89ib4VRt7xjiesCbX5mdMzmID9XX9NVFxjifgYyOpaGFu0mnqd8Ve0-To5vP1RPe0Om_yAMKdyRe9nbojBqGDfWlIuaKgXrdet3v9xyndHCWJpFW0LSK6gFCwYA4V7MotBoJV2DQSXMyB4SuO82iXAnlE5hMdt2RLqHfTsjlA2X-nFx3rIZnN7nEQYMEe5RAA1dSca5uhOL0337pRnaKqYfRFhG0CrFBgm4CkEc4ABAb2ixE8Bg2XwGtGxL-L9t_LqiCFloEo5EDDbX9oDEs1py7lJf3Pn7TlmAxNGC21lXDTq_KahbEEc_63yLQSEetmEax65Y7wy4LPrRdeGqMami1LVh_lCzHWt9NrQZOOC1P59SzrUaPzcf3QGKO4qG85f88C_xYzixCI9Aqiu2FuOYRh7wWRsNXbO9qot6-5ixOeA2C-5RWHk75efCBYODe32DNxFEwwdphLqrI8nw8PR-jp4QrZC_MVGUoDgEKUwP_BlTSQRTpUmVfiePHsQxFsemaaow675bJFhWm_leRQktkJRMGzEw2mfhPXQ7-pIsXTwvbxL5ejniEVwmzKmX17Nqyar_CqWXAoAltkNp_PGQcHK408bAJrGjSAzUKvkS4fsIqTFf5ShKmjofIuxCCWWmxNFLuL-s5liRX_4F3nQfKpW0Wdybnb0Vlg6e9jg1CrZAP3ZE9jZGswV4iLPGXwnBq85CcnBy0WdI7iog6T-EGZgyBX3vk4XQWSdhl8DytVL09cp_N9YRjXzFHZSM89x_oO7GYwmBC8gPVP46z5smNGyF6LZO7fcL0u8GI6AX6NMVKtmj9Iki74SQijHzrurCXzwwLtrOxyMNaKQV-F-LuhKNVM_26NEGEdqd2i8KiKaa1sLp6zm0iwoZtL-EEW2KssevW1ZozP786O77EeX3s56jEc%2F%2F&rurl=;ord=3846270289103027;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=?"
+1512984245943	Marionette	DEBUG	Received DOM event "pageshow" for "https://ad.doubleclick.net/ddm/adi/N30602.158901DATAXU1/B20494861.210087002;sz=300x250;click=https://i.w55c.net/cl?t=1&btid=Y2RmNDg1MjJfODgyYWMyODktZjRkOS00YzA2LThjMmMtYmM1ZTMxOGE3MWQ4fFdGcFJPeTBHeXJ8MTUxMjk4NDIzODM3NXwxfFhtTkN2RzJ1UDd8MFJwSlBXQ1U2QXwxMzc4MDEwMTkyX0dFTl9FWHwxMjEzMjN8fHx8MTcuMFB8VVNE&ei=WORDPRESS&tpc=http%3A%2F%2Fs.pubmine.com%2Fclick%2FHk6M6cWzeNwwF17KbIp9R_VqrV5TWpA3kCmghsFB2jtDlTnzAl_uIYI8uSveiZd2LMjKbkKF2N8yJgZSpCBm_xKfyNYGZwQdd69FSOZeKoyeDhyKy7yh9-xZdydi8nO2YpiaCMSh3yOFTFV8dhg0Vm3WsmG8lJNfORd9V5vm4xAMDeP2sykupR4iYukO_ZNyBAiA3F7mCudE-vKw2VKBuMF1BgPe-3qeXf4DA3CQ9Sk_25khGJstBoneUWQuEZThZxZqCtYR0EkpfK72Lh2MVRYGH7sdzdmi6pFLXaq03BBXr9rLDRqHBykhSjxs8A7Da5Hc3Gcm1BF4CcmDhM2Y8tHd7cZw_iOj45i7z1VzZpKVZzuCgts2ev_ZbWwT2U1hPJAmLVp0f8owZY0ls8Bh3UAdtCutdesqpU45uk3JTWHLWxQeUl9YqnKxHMYmCYbwe2P0kNTk4FpoCRUj_2GH_wdElo4drw3xmAkxoYZSH_V3CeHRjsyNXDKRGeUjjO4Cud_FVuY1_2S1cgEW9IRlk6fh7DU-Ha9oGz_VgwiMWeAY3ZeRjCXVaqlcRucLiux4fTzi1HeBYu5KQT_Z6ZGDKY5c8QGTVRaxlR8MuBeGiRxGQhQQkd_XQH3vAC7dwqYad4JK8ifp-IwydyNtJwcxdMzMRzN0wZ7zfA0AJQbHQ_72-Q6amSr_eMh2JGNJXqtffaWRgjNLRgPYwg5XsZuTk6Cvcwb89ib4VRt7xjiesCbX5mdMzmID9XX9NVFxjifgYyOpaGFu0mnqd8Ve0-To5vP1RPe0Om_yAMKdyRe9nbojBqGDfWlIuaKgXrdet3v9xyndHCWJpFW0LSK6gFCwYA4V7MotBoJV2DQSXMyB4SuO82iXAnlE5hMdt2RLqHfTsjlA2X-nFx3rIZnN7nEQYMEe5RAA1dSca5uhOL0337pRnaKqYfRFhG0CrFBgm4CkEc4ABAb2ixE8Bg2XwGtGxL-L9t_LqiCFloEo5EDDbX9oDEs1py7lJf3Pn7TlmAxNGC21lXDTq_KahbEEc_63yLQSEetmEax65Y7wy4LPrRdeGqMami1LVh_lCzHWt9NrQZOOC1P59SzrUaPzcf3QGKO4qG85f88C_xYzixCI9Aqiu2FuOYRh7wWRsNXbO9qot6-5ixOeA2C-5RWHk75efCBYODe32DNxFEwwdphLqrI8nw8PR-jp4QrZC_MVGUoDgEKUwP_BlTSQRTpUmVfiePHsQxFsemaaow675bJFhWm_leRQktkJRMGzEw2mfhPXQ7-pIsXTwvbxL5ejniEVwmzKmX17Nqyar_CqWXAoAltkNp_PGQcHK408bAJrGjSAzUKvkS4fsIqTFf5ShKmjofIuxCCWWmxNFLuL-s5liRX_4F3nQfKpW0Wdybnb0Vlg6e9jg1CrZAP3ZE9jZGswV4iLPGXwnBq85CcnBy0WdI7iog6T-EGZgyBX3vk4XQWSdhl8DytVL09cp_N9YRjXzFHZSM89x_oO7GYwmBC8gPVP46z5smNGyF6LZO7fcL0u8GI6AX6NMVKtmj9Iki74SQijHzrurCXzwwLtrOxyMNaKQV-F-LuhKNVM_26NEGEdqd2i8KiKaa1sLp6zm0iwoZtL-EEW2KssevW1ZozP786O77EeX3s56jEc%2F%2F&rurl=;ord=3846270289103027;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=?"
+1512984246043	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://cdn3.doubleverify.com/t2tv7.html"
+1512984246045	Marionette	DEBUG	Received DOM event "pageshow" for "https://cdn3.doubleverify.com/t2tv7.html"
+1512984246342	Marionette	DEBUG	Received DOM event "pageshow" for "https://qatechnicals.wordpress.com/jmeter-learning-in-30-days/"
+1512984246692	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s0.2mdn.net/8268032/1512536347193/300x250/index.html"
+1512984246694	Marionette	DEBUG	Received DOM event "pageshow" for "https://s0.2mdn.net/8268032/1512536347193/300x250/index.html"
+1512984246697	Marionette	DEBUG	Received DOM event "pageshow" for "https://ad.doubleclick.net/ddm/adi/N30602.158901DATAXU1/B20494861.210087002;sz=300x250;click=https://i.w55c.net/cl?t=1&btid=YjU4OTdkN2FfZmMxMmE3ZjEtNWZiOC00OGM2LTliNTMtODRjZWI3MjgzY2RlfFdGYlVOMURwRzR8MTUxMjk4NDIzODkwOHwxfFhtTkN2RzJ1UDd8MFJwSlBXQ1U2QXwxMzc4MDEwMTkyX0dFTl9FWHwxMjEzMjN8fHx8MTcuMFB8VVNE&ei=WORDPRESS&tpc=http%3A%2F%2Fs.pubmine.com%2Fclick%2F29D-YIyvXSvi81CuUHABpglzSDxs_H_9naWZ8Bj4YRhE3ohWfx2Mj0ntMm0SKZ9jvTT_4WsSnl1oqzddJ1i2eDxbe-n3qL0CyhiNxtlN6KZg1Eri-9XxjCtxkhbVgzDpYKV2DogJQ22adAG3y1EBd1uoIwSmDNS2qNyjHdQOS6rKMco0tSZN_kc59rFDe-VWqZ_0rSnVDJGIORqHyoMYHM4IjIRLODgzk5bwdKumeaBP9Zs9FNdyNKU9_pXwawxK3yiQLI6JP5rhdIK1nLjpkqt-KB3qaW02iFd20d8qdGDUPTzPPdm7_epHl0c0t9J6j--SovpazgHEdX3G3BJHdvwu4BDdtBWzRLGfxAjp36mfqMgisGLPMXwdjbF3Pwy4woAWn93NknuaXD-5mTU9bQ-TRql30UB8m2uUIIZiA1xwELUdh6S8qc63SQ2FPgIeYa8lIK7SVyMRMBayqHr0DUvrumb4OodoJ6H4nqWLGa17G_OtfP1z60wLl2xvzeiagUSCNgX_Kqjxj8qpJT28RBcYnqxqYj8uyZlROCLR2Qm3IhBHvPmvbwuPKJ-Ahgm4bPP5W4A3YS4-75KU_DFzMp2i0l7iPyQL7t-A-XObgS3Rzr6NN5FDBuJk9CzrroQlrnxJJyqa65BMEze3d1imdw8Wlf_DO7lzpxqmCGLhtxF2Z_GNIvzWON53H0a7M2lSeszBo8LRp4E6UDpXwe-jTaSUTx-D31esPK03Vth2ruCjAcZ34ase_Fi-B8tEv7noVdTAa7mmzjeWAKGq-Dfh9xB13JpoaSrpMeQjSFXxGu9Fcz24NZ0GByQKRqbEy-314MF9qjWyf1Jw3VhQVYH3uIvwwoKdVh5NUqWSY44DSsY4FZOSu2OpctpNWNaRx7be1LoiA_721WaUihrfFli1KXxxegy2u2CYmehQkjhImtui9vafsFOfBN55GIWWbIhLei4zPg05INe24R1gV9Xpgv-rhhp-IueMjcQRxKZAOuoUaNWE4is63IwLRf0U1sNsQnvORPF3wFEWexb2Da_RWjpdSPxLf-eCJHZVVuLcHWDCAd-ZNVNi6GVvsk7y37-I2a00ZLOSgJk8z_1l0PFoXzUAl0vvw_TXBZwo3W4ASbqzUFpKs8H9g4-saDH5pFr8FKZVwklalUrwGPR9OBf_U1M8yS6XrvxPqM_6KhixQTGkZ_-FNv6f0jouAG1_nOOWSnJes9BUSnIEqE6W_yAisaMk8RaLbaohFyKkWYb7p-q0G1V6pisfTt78fFaELQ7d3FXfU1F_luqlUGOjv_b7VKwY4vq0Ywrvsam188Ld4LXBrgWGTz4_zvSHd3OJKkgMypbxI79qQ8_3UiqqGCaXHHIvEWjUrW1zDdcxtDCI0h2qJThzYqjx0vlKnjamBcceJX73UnPGET4gP2qJDfJiU3NW3z99aNXlFDAciEg4vLgBSIeyBqIyD6xqLqnAPTd2oymrv-khYCdlkrOtrEPSydG_YWwAjenBG_KL7arNlflvCIUG1wlfd3w-h8XCivMo7X7eS3xypvRC6nZ4Gxq8qmfWFBVOYMjAfcD1xdts6LzvzyhISlK8QMaEwuvO6KROkoh8AonymdWHirzD0kMnLXk1dqcobf0t_YGcT6u1oDw-UWQc42QkEhNiCw%2F%2F&rurl=;ord=1874507264136940;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=?"
+1512984246704	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s0.2mdn.net/8268032/1511993257440/PRO_0917_eBN_300x250/PRO_0917_eBN_300x250_DigitalBanner_GBL_ENG.html"
+1512984246731	Marionette	DEBUG	Received DOM event "pageshow" for "https://s0.2mdn.net/8268032/1511993257440/PRO_0917_eBN_300x250/PRO_0917_eBN_300x250_DigitalBanner_GBL_ENG.html"
+1512984246817	Marionette	DEBUG	Received DOM event "pageshow" for "https://ad.doubleclick.net/ddm/adi/N30602.158901DATAXU1/B20494861.210087002;sz=300x250;click=https://i.w55c.net/cl?t=1&btid=YjU4OTdkN2FfZmMxMmE3ZjEtNWZiOC00OGM2LTliNTMtODRjZWI3MjgzY2RlfFdGYlVOMURwRzR8MTUxMjk4NDIzODkwOHwxfFhtTkN2RzJ1UDd8MFJwSlBXQ1U2QXwxMzc4MDEwMTkyX0dFTl9FWHwxMjEzMjN8fHx8MTcuMFB8VVNE&ei=WORDPRESS&tpc=http%3A%2F%2Fs.pubmine.com%2Fclick%2F29D-YIyvXSvi81CuUHABpglzSDxs_H_9naWZ8Bj4YRhE3ohWfx2Mj0ntMm0SKZ9jvTT_4WsSnl1oqzddJ1i2eDxbe-n3qL0CyhiNxtlN6KZg1Eri-9XxjCtxkhbVgzDpYKV2DogJQ22adAG3y1EBd1uoIwSmDNS2qNyjHdQOS6rKMco0tSZN_kc59rFDe-VWqZ_0rSnVDJGIORqHyoMYHM4IjIRLODgzk5bwdKumeaBP9Zs9FNdyNKU9_pXwawxK3yiQLI6JP5rhdIK1nLjpkqt-KB3qaW02iFd20d8qdGDUPTzPPdm7_epHl0c0t9J6j--SovpazgHEdX3G3BJHdvwu4BDdtBWzRLGfxAjp36mfqMgisGLPMXwdjbF3Pwy4woAWn93NknuaXD-5mTU9bQ-TRql30UB8m2uUIIZiA1xwELUdh6S8qc63SQ2FPgIeYa8lIK7SVyMRMBayqHr0DUvrumb4OodoJ6H4nqWLGa17G_OtfP1z60wLl2xvzeiagUSCNgX_Kqjxj8qpJT28RBcYnqxqYj8uyZlROCLR2Qm3IhBHvPmvbwuPKJ-Ahgm4bPP5W4A3YS4-75KU_DFzMp2i0l7iPyQL7t-A-XObgS3Rzr6NN5FDBuJk9CzrroQlrnxJJyqa65BMEze3d1imdw8Wlf_DO7lzpxqmCGLhtxF2Z_GNIvzWON53H0a7M2lSeszBo8LRp4E6UDpXwe-jTaSUTx-D31esPK03Vth2ruCjAcZ34ase_Fi-B8tEv7noVdTAa7mmzjeWAKGq-Dfh9xB13JpoaSrpMeQjSFXxGu9Fcz24NZ0GByQKRqbEy-314MF9qjWyf1Jw3VhQVYH3uIvwwoKdVh5NUqWSY44DSsY4FZOSu2OpctpNWNaRx7be1LoiA_721WaUihrfFli1KXxxegy2u2CYmehQkjhImtui9vafsFOfBN55GIWWbIhLei4zPg05INe24R1gV9Xpgv-rhhp-IueMjcQRxKZAOuoUaNWE4is63IwLRf0U1sNsQnvORPF3wFEWexb2Da_RWjpdSPxLf-eCJHZVVuLcHWDCAd-ZNVNi6GVvsk7y37-I2a00ZLOSgJk8z_1l0PFoXzUAl0vvw_TXBZwo3W4ASbqzUFpKs8H9g4-saDH5pFr8FKZVwklalUrwGPR9OBf_U1M8yS6XrvxPqM_6KhixQTGkZ_-FNv6f0jouAG1_nOOWSnJes9BUSnIEqE6W_yAisaMk8RaLbaohFyKkWYb7p-q0G1V6pisfTt78fFaELQ7d3FXfU1F_luqlUGOjv_b7VKwY4vq0Ywrvsam188Ld4LXBrgWGTz4_zvSHd3OJKkgMypbxI79qQ8_3UiqqGCaXHHIvEWjUrW1zDdcxtDCI0h2qJThzYqjx0vlKnjamBcceJX73UnPGET4gP2qJDfJiU3NW3z99aNXlFDAciEg4vLgBSIeyBqIyD6xqLqnAPTd2oymrv-khYCdlkrOtrEPSydG_YWwAjenBG_KL7arNlflvCIUG1wlfd3w-h8XCivMo7X7eS3xypvRC6nZ4Gxq8qmfWFBVOYMjAfcD1xdts6LzvzyhISlK8QMaEwuvO6KROkoh8AonymdWHirzD0kMnLXk1dqcobf0t_YGcT6u1oDw-UWQc42QkEhNiCw%2F%2F&rurl=;ord=1874507264136940;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=?"
+1512984246825	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ad.doubleclick.net/ddm/adi/N30602.158901DATAXU1/B20494861.210087002;sz=300x250;click=https://i.w55c.net/cl?t=1&btid=YjU4OTdkN2FfZmMxMmE3ZjEtNWZiOC00OGM2LTliNTMtODRjZWI3MjgzY2RlfFdGYlVOMURwRzR8MTUxMjk4NDIzODkwOHwxfFhtTkN2RzJ1UDd8MFJwSlBXQ1U2QXwxMzc4MDEwMTkyX0dFTl9FWHwxMjEzMjN8fHx8MTcuMFB8VVNE&ei=WORDPRESS&tpc=http%3A%2F%2Fs.pubmine.com%2Fclick%2F29D-YIyvXSvi81CuUHABpglzSDxs_H_9naWZ8Bj4YRhE3ohWfx2Mj0ntMm0SKZ9jvTT_4WsSnl1oqzddJ1i2eDxbe-n3qL0CyhiNxtlN6KZg1Eri-9XxjCtxkhbVgzDpYKV2DogJQ22adAG3y1EBd1uoIwSmDNS2qNyjHdQOS6rKMco0tSZN_kc59rFDe-VWqZ_0rSnVDJGIORqHyoMYHM4IjIRLODgzk5bwdKumeaBP9Zs9FNdyNKU9_pXwawxK3yiQLI6JP5rhdIK1nLjpkqt-KB3qaW02iFd20d8qdGDUPTzPPdm7_epHl0c0t9J6j--SovpazgHEdX3G3BJHdvwu4BDdtBWzRLGfxAjp36mfqMgisGLPMXwdjbF3Pwy4woAWn93NknuaXD-5mTU9bQ-TRql30UB8m2uUIIZiA1xwELUdh6S8qc63SQ2FPgIeYa8lIK7SVyMRMBayqHr0DUvrumb4OodoJ6H4nqWLGa17G_OtfP1z60wLl2xvzeiagUSCNgX_Kqjxj8qpJT28RBcYnqxqYj8uyZlROCLR2Qm3IhBHvPmvbwuPKJ-Ahgm4bPP5W4A3YS4-75KU_DFzMp2i0l7iPyQL7t-A-XObgS3Rzr6NN5FDBuJk9CzrroQlrnxJJyqa65BMEze3d1imdw8Wlf_DO7lzpxqmCGLhtxF2Z_GNIvzWON53H0a7M2lSeszBo8LRp4E6UDpXwe-jTaSUTx-D31esPK03Vth2ruCjAcZ34ase_Fi-B8tEv7noVdTAa7mmzjeWAKGq-Dfh9xB13JpoaSrpMeQjSFXxGu9Fcz24NZ0GByQKRqbEy-314MF9qjWyf1Jw3VhQVYH3uIvwwoKdVh5NUqWSY44DSsY4FZOSu2OpctpNWNaRx7be1LoiA_721WaUihrfFli1KXxxegy2u2CYmehQkjhImtui9vafsFOfBN55GIWWbIhLei4zPg05INe24R1gV9Xpgv-rhhp-IueMjcQRxKZAOuoUaNWE4is63IwLRf0U1sNsQnvORPF3wFEWexb2Da_RWjpdSPxLf-eCJHZVVuLcHWDCAd-ZNVNi6GVvsk7y37-I2a00ZLOSgJk8z_1l0PFoXzUAl0vvw_TXBZwo3W4ASbqzUFpKs8H9g4-saDH5pFr8FKZVwklalUrwGPR9OBf_U1M8yS6XrvxPqM_6KhixQTGkZ_-FNv6f0jouAG1_nOOWSnJes9BUSnIEqE6W_yAisaMk8RaLbaohFyKkWYb7p-q0G1V6pisfTt78fFaELQ7d3FXfU1F_luqlUGOjv_b7VKwY4vq0Ywrvsam188Ld4LXBrgWGTz4_zvSHd3OJKkgMypbxI79qQ8_3UiqqGCaXHHIvEWjUrW1zDdcxtDCI0h2qJThzYqjx0vlKnjamBcceJX73UnPGET4gP2qJDfJiU3NW3z99aNXlFDAciEg4vLgBSIeyBqIyD6xqLqnAPTd2oymrv-khYCdlkrOtrEPSydG_YWwAjenBG_KL7arNlflvCIUG1wlfd3w-h8XCivMo7X7eS3xypvRC6nZ4Gxq8qmfWFBVOYMjAfcD1xdts6LzvzyhISlK8QMaEwuvO6KROkoh8AonymdWHirzD0kMnLXk1dqcobf0t_YGcT6u1oDw-UWQc42QkEhNiCw%2F%2F&rurl=;ord=1874507264136940;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=?"
+1512984246826	Marionette	DEBUG	Received DOM event "pageshow" for "https://ad.doubleclick.net/ddm/adi/N30602.158901DATAXU1/B20494861.210087002;sz=300x250;click=https://i.w55c.net/cl?t=1&btid=YjU4OTdkN2FfZmMxMmE3ZjEtNWZiOC00OGM2LTliNTMtODRjZWI3MjgzY2RlfFdGYlVOMURwRzR8MTUxMjk4NDIzODkwOHwxfFhtTkN2RzJ1UDd8MFJwSlBXQ1U2QXwxMzc4MDEwMTkyX0dFTl9FWHwxMjEzMjN8fHx8MTcuMFB8VVNE&ei=WORDPRESS&tpc=http%3A%2F%2Fs.pubmine.com%2Fclick%2F29D-YIyvXSvi81CuUHABpglzSDxs_H_9naWZ8Bj4YRhE3ohWfx2Mj0ntMm0SKZ9jvTT_4WsSnl1oqzddJ1i2eDxbe-n3qL0CyhiNxtlN6KZg1Eri-9XxjCtxkhbVgzDpYKV2DogJQ22adAG3y1EBd1uoIwSmDNS2qNyjHdQOS6rKMco0tSZN_kc59rFDe-VWqZ_0rSnVDJGIORqHyoMYHM4IjIRLODgzk5bwdKumeaBP9Zs9FNdyNKU9_pXwawxK3yiQLI6JP5rhdIK1nLjpkqt-KB3qaW02iFd20d8qdGDUPTzPPdm7_epHl0c0t9J6j--SovpazgHEdX3G3BJHdvwu4BDdtBWzRLGfxAjp36mfqMgisGLPMXwdjbF3Pwy4woAWn93NknuaXD-5mTU9bQ-TRql30UB8m2uUIIZiA1xwELUdh6S8qc63SQ2FPgIeYa8lIK7SVyMRMBayqHr0DUvrumb4OodoJ6H4nqWLGa17G_OtfP1z60wLl2xvzeiagUSCNgX_Kqjxj8qpJT28RBcYnqxqYj8uyZlROCLR2Qm3IhBHvPmvbwuPKJ-Ahgm4bPP5W4A3YS4-75KU_DFzMp2i0l7iPyQL7t-A-XObgS3Rzr6NN5FDBuJk9CzrroQlrnxJJyqa65BMEze3d1imdw8Wlf_DO7lzpxqmCGLhtxF2Z_GNIvzWON53H0a7M2lSeszBo8LRp4E6UDpXwe-jTaSUTx-D31esPK03Vth2ruCjAcZ34ase_Fi-B8tEv7noVdTAa7mmzjeWAKGq-Dfh9xB13JpoaSrpMeQjSFXxGu9Fcz24NZ0GByQKRqbEy-314MF9qjWyf1Jw3VhQVYH3uIvwwoKdVh5NUqWSY44DSsY4FZOSu2OpctpNWNaRx7be1LoiA_721WaUihrfFli1KXxxegy2u2CYmehQkjhImtui9vafsFOfBN55GIWWbIhLei4zPg05INe24R1gV9Xpgv-rhhp-IueMjcQRxKZAOuoUaNWE4is63IwLRf0U1sNsQnvORPF3wFEWexb2Da_RWjpdSPxLf-eCJHZVVuLcHWDCAd-ZNVNi6GVvsk7y37-I2a00ZLOSgJk8z_1l0PFoXzUAl0vvw_TXBZwo3W4ASbqzUFpKs8H9g4-saDH5pFr8FKZVwklalUrwGPR9OBf_U1M8yS6XrvxPqM_6KhixQTGkZ_-FNv6f0jouAG1_nOOWSnJes9BUSnIEqE6W_yAisaMk8RaLbaohFyKkWYb7p-q0G1V6pisfTt78fFaELQ7d3FXfU1F_luqlUGOjv_b7VKwY4vq0Ywrvsam188Ld4LXBrgWGTz4_zvSHd3OJKkgMypbxI79qQ8_3UiqqGCaXHHIvEWjUrW1zDdcxtDCI0h2qJThzYqjx0vlKnjamBcceJX73UnPGET4gP2qJDfJiU3NW3z99aNXlFDAciEg4vLgBSIeyBqIyD6xqLqnAPTd2oymrv-khYCdlkrOtrEPSydG_YWwAjenBG_KL7arNlflvCIUG1wlfd3w-h8XCivMo7X7eS3xypvRC6nZ4Gxq8qmfWFBVOYMjAfcD1xdts6LzvzyhISlK8QMaEwuvO6KROkoh8AonymdWHirzD0kMnLXk1dqcobf0t_YGcT6u1oDw-UWQc42QkEhNiCw%2F%2F&rurl=;ord=1874507264136940;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=?"
+1512984247304	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://qatechnicals.wordpress.com/jmeter-learning-in-30-days/"
+1512984247590	Marionette	DEBUG	Received DOM event "pageshow" for "https://qatechnicals.wordpress.com/jmeter-learning-in-30-days/"
+1512984247592	Marionette	DEBUG	Received DOM event "pageshow" for "https://qatechnicals.wordpress.com/jmeter-learning-in-30-days/"
+1512984247598	Marionette	DEBUG	Received DOM event "pageshow" for "https://qatechnicals.wordpress.com/jmeter-learning-in-30-days/"
+1512984253215	Marionette	INFO	New connections will no longer be accepted
+JavaScript error: resource://shield-recipe-client/lib/EventEmitter.jsm, line 30: TypeError: log is undefined
+JavaScript error: resource://shield-recipe-client/lib/EventEmitter.jsm, line 30: TypeError: log is undefined

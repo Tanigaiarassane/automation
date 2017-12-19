@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generated="20171211 14:57:37.785" generator="Robot 3.0.2 (Python 2.7.10 on darwin)">
+<suite source="/Users/tanigai/PycharmProjects/automation/tests/execution.txt" id="s1" name="Execution">
+<kw type="setup" name="Setup Actions">
+<kw name="Connect Browser" library="lib">
+<assign>
+<var>${browser}</var>
+</assign>
+<msg timestamp="20171211 14:57:40.920" level="INFO">${browser} = &lt;common.setup_lib.browser_setup instance at 0x104821368&gt;</msg>
+<status status="PASS" endtime="20171211 14:57:40.920" starttime="20171211 14:57:40.920"></status>
+</kw>
+<kw name="Log" library="BuiltIn">
+<doc>Logs the given message with the given level.</doc>
+<arguments>
+<arg>${browser}</arg>
+</arguments>
+<msg timestamp="20171211 14:57:40.921" level="INFO">&lt;common.setup_lib.browser_setup instance at 0x104821368&gt;</msg>
+<status status="PASS" endtime="20171211 14:57:40.921" starttime="20171211 14:57:40.920"></status>
+</kw>
+<kw name="Set Suite Variable" library="BuiltIn">
+<doc>Makes a variable available everywhere within the scope of the current suite.</doc>
+<arguments>
+<arg>${browser}</arg>
+</arguments>
+<msg timestamp="20171211 14:57:40.921" level="INFO">${browser} = &lt;common.setup_lib.browser_setup instance at 0x104821368&gt;</msg>
+<status status="PASS" endtime="20171211 14:57:40.921" starttime="20171211 14:57:40.921"></status>
+</kw>
+<status status="PASS" endtime="20171211 14:57:40.921" starttime="20171211 14:57:40.920"></status>
+</kw>
+<test id="s1-t1" name="Test 3: Actions menu">
+<kw name="Actions Menu" library="selenium_functions.selenium_features">
+<status status="PASS" endtime="20171211 14:58:04.030" starttime="20171211 14:57:40.922"></status>
+</kw>
+<doc>Demo of Actions menu</doc>
+<status status="PASS" endtime="20171211 14:58:04.030" critical="yes" starttime="20171211 14:57:40.921"></status>
+</test>
+<status status="PASS" endtime="20171211 14:58:04.032" starttime="20171211 14:57:37.790"></status>
+</suite>
+<statistics>
+<total>
+<stat fail="0" pass="1">Critical Tests</stat>
+<stat fail="0" pass="1">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat fail="0" id="s1" name="Execution" pass="1">Execution</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>

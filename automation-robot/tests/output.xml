@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generated="20171217 10:01:27.059" generator="Robot 3.0.2 (Python 2.7.10 on darwin)">
+<suite source="/Users/tanigai/PycharmProjects/automation-robot/tests/execution.txt" id="s1" name="Execution">
+<kw type="setup" name="Setup Actions">
+<kw name="Connect Browser" library="lib">
+<assign>
+<var>${browser}</var>
+</assign>
+<msg timestamp="20171217 10:01:30.977" level="INFO">${browser} = &lt;common.setup_lib.browser_setup instance at 0x1042e0d88&gt;</msg>
+<status status="PASS" endtime="20171217 10:01:30.977" starttime="20171217 10:01:30.976"></status>
+</kw>
+<kw name="Log" library="BuiltIn">
+<doc>Logs the given message with the given level.</doc>
+<arguments>
+<arg>${browser}</arg>
+</arguments>
+<msg timestamp="20171217 10:01:30.977" level="INFO">&lt;common.setup_lib.browser_setup instance at 0x1042e0d88&gt;</msg>
+<status status="PASS" endtime="20171217 10:01:30.978" starttime="20171217 10:01:30.977"></status>
+</kw>
+<kw name="Set Suite Variable" library="BuiltIn">
+<doc>Makes a variable available everywhere within the scope of the current suite.</doc>
+<arguments>
+<arg>${browser}</arg>
+</arguments>
+<msg timestamp="20171217 10:01:30.978" level="INFO">${browser} = &lt;common.setup_lib.browser_setup instance at 0x1042e0d88&gt;</msg>
+<status status="PASS" endtime="20171217 10:01:30.978" starttime="20171217 10:01:30.978"></status>
+</kw>
+<status status="PASS" endtime="20171217 10:01:30.979" starttime="20171217 10:01:30.976"></status>
+</kw>
+<test id="s1-t1" name="Test 1: Locating elements">
+<kw name="Log" library="BuiltIn">
+<doc>Logs the given message with the given level.</doc>
+<arguments>
+<arg>Dummy test for executing locating elements</arg>
+</arguments>
+<msg timestamp="20171217 10:01:30.980" level="INFO">Dummy test for executing locating elements</msg>
+<status status="PASS" endtime="20171217 10:01:30.980" starttime="20171217 10:01:30.980"></status>
+</kw>
+<doc>Locating elements by id, name, tag, link text, css, xpath</doc>
+<status status="PASS" endtime="20171217 10:01:30.981" critical="yes" starttime="20171217 10:01:30.979"></status>
+</test>
+<test id="s1-t2" name="Test 2: Frame demo">
+<kw name="Log" library="BuiltIn">
+<doc>Logs the given message with the given level.</doc>
+<arguments>
+<arg>tanigai1</arg>
+</arguments>
+<msg timestamp="20171217 10:01:30.982" level="INFO">tanigai1</msg>
+<status status="PASS" endtime="20171217 10:01:30.982" starttime="20171217 10:01:30.981"></status>
+</kw>
+<kw name="Log" library="BuiltIn">
+<doc>Logs the given message with the given level.</doc>
+<arguments>
+<arg>${browser}</arg>
+</arguments>
+<msg timestamp="20171217 10:01:30.982" level="INFO">&lt;common.setup_lib.browser_setup instance at 0x1042e0d88&gt;</msg>
+<status status="PASS" endtime="20171217 10:01:30.982" starttime="20171217 10:01:30.982"></status>
+</kw>
+<kw name="Frame Demo" library="selenium_functions.selenium_features">
+<msg timestamp="20171217 10:01:42.642" level="INFO">A button element</msg>
+<status status="PASS" endtime="20171217 10:01:42.642" starttime="20171217 10:01:30.983"></status>
+</kw>
+<doc>Demo of Switching frames</doc>
+<status status="PASS" endtime="20171217 10:01:42.642" critical="yes" starttime="20171217 10:01:30.981"></status>
+</test>
+<test id="s1-t3" name="Test 3: Actions menu">
+<kw name="Actions Menu" library="selenium_functions.selenium_features">
+<status status="PASS" endtime="20171217 10:01:59.037" starttime="20171217 10:01:42.643"></status>
+</kw>
+<doc>Demo of Actions menu</doc>
+<status status="PASS" endtime="20171217 10:01:59.037" critical="yes" starttime="20171217 10:01:42.642"></status>
+</test>
+<test id="s1-t4" name="Test 4: Implicit wait">
+<kw name="Log" library="BuiltIn">
+<doc>Logs the given message with the given level.</doc>
+<arguments>
+<arg>Dummy test for executing implicit wait</arg>
+</arguments>
+<msg timestamp="20171217 10:01:59.038" level="INFO">Dummy test for executing implicit wait</msg>
+<status status="PASS" endtime="20171217 10:01:59.039" starttime="20171217 10:01:59.038"></status>
+</kw>
+<doc>Demo for implicit wait</doc>
+<status status="PASS" endtime="20171217 10:01:59.039" critical="yes" starttime="20171217 10:01:59.037"></status>
+</test>
+<test id="s1-t5" name="Test 5: Explicit wait">
+<kw name="Log" library="BuiltIn">
+<doc>Logs the given message with the given level.</doc>
+<arguments>
+<arg>Explicit wait</arg>
+</arguments>
+<msg timestamp="20171217 10:01:59.040" level="INFO">Explicit wait</msg>
+<status status="PASS" endtime="20171217 10:01:59.040" starttime="20171217 10:01:59.040"></status>
+</kw>
+<doc>Demo for Explicit wait</doc>
+<status status="PASS" endtime="20171217 10:01:59.041" critical="yes" starttime="20171217 10:01:59.039"></status>
+</test>
+<test id="s1-t6" name="Test 6: Capturing screen">
+<kw name="Log" library="BuiltIn">
+<doc>Logs the given message with the given level.</doc>
+<arguments>
+<arg>Screen capture</arg>
+</arguments>
+<msg timestamp="20171217 10:01:59.042" level="INFO">Screen capture</msg>
+<status status="PASS" endtime="20171217 10:01:59.042" starttime="20171217 10:01:59.042"></status>
+</kw>
+<doc>Demo for screen capture</doc>
+<status status="PASS" endtime="20171217 10:01:59.042" critical="yes" starttime="20171217 10:01:59.041"></status>
+</test>
+<test id="s1-t7" name="Test 7: Exception handling">
+<kw name="Log" library="BuiltIn">
+<doc>Logs the given message with the given level.</doc>
+<arguments>
+<arg>Exception handling</arg>
+</arguments>
+<msg timestamp="20171217 10:01:59.043" level="INFO">Exception handling</msg>
+<status status="PASS" endtime="20171217 10:01:59.044" starttime="20171217 10:01:59.043"></status>
+</kw>
+<doc>Demo for Exception handling</doc>
+<status status="PASS" endtime="20171217 10:01:59.044" critical="yes" starttime="20171217 10:01:59.042"></status>
+</test>
+<test id="s1-t8" name="Test 8: File handling">
+<kw name="Log" library="BuiltIn">
+<doc>Logs the given message with the given level.</doc>
+<arguments>
+<arg>File handling</arg>
+</arguments>
+<msg timestamp="20171217 10:01:59.046" level="INFO">File handling</msg>
+<status status="PASS" endtime="20171217 10:01:59.046" starttime="20171217 10:01:59.046"></status>
+</kw>
+<doc>Demo for File handling</doc>
+<status status="PASS" endtime="20171217 10:01:59.047" critical="yes" starttime="20171217 10:01:59.044"></status>
+</test>
+<test id="s1-t9" name="Test 7: Date picker">
+<kw name="Log" library="BuiltIn">
+<doc>Logs the given message with the given level.</doc>
+<arguments>
+<arg>Date picker</arg>
+</arguments>
+<msg timestamp="20171217 10:01:59.101" level="INFO">Date picker</msg>
+<status status="PASS" endtime="20171217 10:01:59.102" starttime="20171217 10:01:59.100"></status>
+</kw>
+<doc>Demo for Date picker</doc>
+<status status="PASS" endtime="20171217 10:01:59.108" critical="yes" starttime="20171217 10:01:59.047"></status>
+</test>
+<test id="s1-t10" name="Test 8: Select menu">
+<kw name="Log" library="BuiltIn">
+<doc>Logs the given message with the given level.</doc>
+<arguments>
+<arg>Select menu</arg>
+</arguments>
+<msg timestamp="20171217 10:01:59.110" level="INFO">Select menu</msg>
+<status status="PASS" endtime="20171217 10:01:59.115" starttime="20171217 10:01:59.110"></status>
+</kw>
+<doc>Drop down with select menu</doc>
+<status status="PASS" endtime="20171217 10:01:59.125" critical="yes" starttime="20171217 10:01:59.108"></status>
+</test>
+<test id="s1-t11" name="Test 9: Execute script">
+<kw name="Log" library="BuiltIn">
+<doc>Logs the given message with the given level.</doc>
+<arguments>
+<arg>Execute Java script</arg>
+</arguments>
+<msg timestamp="20171217 10:01:59.128" level="INFO">Execute Java script</msg>
+<status status="PASS" endtime="20171217 10:01:59.129" starttime="20171217 10:01:59.128"></status>
+</kw>
+<doc>Execute JS</doc>
+<status status="PASS" endtime="20171217 10:01:59.129" critical="yes" starttime="20171217 10:01:59.127"></status>
+</test>
+<test id="s1-t12" name="Test 10: Handling windows">
+<kw name="Log" library="BuiltIn">
+<doc>Logs the given message with the given level.</doc>
+<arguments>
+<arg>Switching to windows</arg>
+</arguments>
+<msg timestamp="20171217 10:01:59.132" level="INFO">Switching to windows</msg>
+<status status="PASS" endtime="20171217 10:01:59.132" starttime="20171217 10:01:59.132"></status>
+</kw>
+<doc>Switching to windows</doc>
+<status status="PASS" endtime="20171217 10:01:59.133" critical="yes" starttime="20171217 10:01:59.131"></status>
+</test>
+<test id="s1-t13" name="Test 11: Handling alerts">
+<kw name="Log" library="BuiltIn">
+<doc>Logs the given message with the given level.</doc>
+<arguments>
+<arg>Switching to alerts windows</arg>
+</arguments>
+<msg timestamp="20171217 10:01:59.134" level="INFO">Switching to alerts windows</msg>
+<status status="PASS" endtime="20171217 10:01:59.134" starttime="20171217 10:01:59.134"></status>
+</kw>
+<doc>Switching to alerts windows</doc>
+<status status="PASS" endtime="20171217 10:01:59.134" critical="yes" starttime="20171217 10:01:59.133"></status>
+</test>
+<status status="PASS" endtime="20171217 10:01:59.170" starttime="20171217 10:01:27.062"></status>
+</suite>
+<statistics>
+<total>
+<stat fail="0" pass="13">Critical Tests</stat>
+<stat fail="0" pass="13">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat fail="0" id="s1" name="Execution" pass="13">Execution</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
